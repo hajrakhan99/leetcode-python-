@@ -8,6 +8,7 @@ my leetcode solutions in python
 | ------- |
 | [0001-two-sum](https://github.com/hajrakhan99/leetcode-python-/tree/master/0001-two-sum) |
 | [0704-binary-search](https://github.com/hajrakhan99/leetcode-python-/tree/master/0704-binary-search) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hajrakhan99/leetcode-python-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -16,6 +17,7 @@ my leetcode solutions in python
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hajrakhan99/leetcode-python-/tree/master/0001-two-sum) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hajrakhan99/leetcode-python-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
 | ------- |
@@ -29,4 +31,12 @@ my leetcode solutions in python
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/hajrakhan99/leetcode-python-/tree/master/0412-fizz-buzz) |
+## Sorting
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hajrakhan99/leetcode-python-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hajrakhan99/leetcode-python-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
