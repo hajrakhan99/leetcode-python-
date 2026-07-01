@@ -20,6 +20,7 @@ my leetcode solutions in python
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/hajrakhan99/leetcode-python-/tree/master/0412-fizz-buzz) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/hajrakhan99/leetcode-python-/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## String
 |  |
 | ------- |
