@@ -9,6 +9,7 @@ my leetcode solutions in python
 | [0001-two-sum](https://github.com/hajrakhan99/leetcode-python-/tree/master/0001-two-sum) |
 | [0704-binary-search](https://github.com/hajrakhan99/leetcode-python-/tree/master/0704-binary-search) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hajrakhan99/leetcode-python-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1480-running-sum-of-1d-array](https://github.com/hajrakhan99/leetcode-python-/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -39,4 +40,8 @@ my leetcode solutions in python
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hajrakhan99/leetcode-python-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/hajrakhan99/leetcode-python-/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
